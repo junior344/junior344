@@ -22,10 +22,10 @@ Voici les technologies que j'utilise régulièrement :
 
 ## 🚀 Projets Notables
 
-### 🎯 [Lokkeroom](https://github.com/Pedrocito97/scout-project.git)
-**Une plateforme de messagerie pour les équipes sportives**  
-- 🛠️ Développement d'une API REST avec **Node.js** et **Express**.  
-- 📊 Gestion des utilisateurs, messages, et lobbies via une base de données **MySQL (MariaDB)**.
+### 🎵 [Projet Spotify](https://github.com/junior344/spotify.git)
+**Exploration de l'API Spotify pour créer des playlists personnalisées**  
+- Intégration avec l'API **Spotify** pour récupérer des données sur les artistes, albums, et titres.  
+- Développement avec **Node** et gestion des états via **TypeScript**.
 
 ### 🎨 Portfolio Personnel (A venir)
 **Un site pour exposer mes compétences et projets**  
@@ -41,10 +41,10 @@ Voici les technologies que j'utilise régulièrement :
 **Un jeu interactif basé sur JavaScript**  
 - 🎵 Testez vos connaissances musicales en devinant l'artiste en collaboration.  
 
-### 🎵 [Projet Spotify](https://github.com/junior344/spotify.git)
-**Exploration de l'API Spotify pour créer des playlists personnalisées**  
-- Intégration avec l'API **Spotify** pour récupérer des données sur les artistes, albums, et titres.  
-- Développement avec **Node** et gestion des états via **TypeScript**.
+### 🎯 [Lokkeroom](https://github.com/Pedrocito97/scout-project.git)
+**Une plateforme de messagerie pour les équipes sportives**  
+- 🛠️ Développement d'une API REST avec **Node.js** et **Express**.  
+- 📊 Gestion des utilisateurs, messages, et lobbies via une base de données **MySQL (MariaDB)**.
 ---
 
 ## 🌱 Ce que j'apprends actuellement  
