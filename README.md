@@ -41,10 +41,6 @@ Voici les technologies que j'utilise régulièrement :
 **Un jeu interactif basé sur JavaScript**  
 - 🎵 Testez vos connaissances musicales en devinant l'artiste en collaboration.  
 
-### 🎯 [Lokkeroom](https://github.com/Pedrocito97/scout-project.git)
-**Une plateforme de messagerie pour les équipes sportives**  
-- 🛠️ Développement d'une API REST avec **Node.js** et **Express**.  
-- 📊 Gestion des utilisateurs, messages, et lobbies via une base de données **MySQL (MariaDB)**.
 ---
 
 ## 🌱 Ce que j'apprends actuellement  
