@@ -1,3 +1,5 @@
+
+[![Image](https://i.goopics.net/8v7d3h.jpg)](https://goopics.net/i/8v7d3h)
 # 🌟 Bienvenue sur mon GitHub !
 
 👋 Salut, moi c'est josias ! Je suis un développeur full-stack passionné par la création de projets dynamiques et modernes en utilisant des technologies comme **JavaScript**, **TypeScript**, **Node.js**, et **React**. 
