@@ -29,17 +29,21 @@ Voici les technologies que j'utilise régulièrement :
 - Intégration avec l'API **Spotify** pour récupérer des données sur les artistes, albums, et titres.  
 - Développement avec **Node** et gestion des états via **TypeScript**.
 
-### # 🎉 [Marvel Quiz](https://github.com/junior344/marvel_Quizz)
-**Un site pour exposer mes compétences et projets**  
-- 🖌️ Créé avec **React** et un design responsive mobile-first avec **Sass**.  
-- ⚡ Optimisé avec **Vite** pour un chargement rapide.
+### 🎉 [Marvel Quiz](https://github.com/junior344/marvel_Quizz)
+**Un site pour tester son niveau de connaissance dans l'univers Marvel**  
+- 🔐 Authentification des utilisateurs avec Firebase.
+- 🧩 Quiz interactif avec plusieurs niveaux de difficulté.
+- 📊 Suivi des scores et affichage des résultats.
+- 💻 Interface utilisateur réactive et conviviale créée avec React et Sass.
+- ⚡ Optimisé avec Vite pour un chargement rapide.
 
   ### 🌦️ [Projet Météo](https://github.com/junior344/beCode_meteo.git)
-## un site pour tester son niveau de connaissance dans l'univers marvel
-- 🔐 Authentification des utilisateurs avec Firebase
-- 🧩 Quiz interactif avec plusieurs niveaux de difficulté
-- 📊 Suivi des scores et affichage des résultats
-- 💻 Interface utilisateur réactive et conviviale  
+**Un site pour afficher les prévisions météorologiques actuelles**  
+- 🌍 Intégration avec l'API OpenWeatherMap pour récupérer les données météorologiques en temps réel.
+- 📍 Recherche de la météo par ville ou géolocalisation.
+- 📱 Interface utilisateur responsive et conviviale créée avec React.
+- 📊 Affichage des prévisions sur plusieurs jours avec des graphiques interactifs.
+- 🛠️ Utilisation de TypeScript pour une gestion stricte des types. 
 
 ### 🎮 Jeu Devinez l’Artiste  (A venir)
 **Un jeu interactif basé sur JavaScript**  
@@ -49,7 +53,8 @@ Voici les technologies que j'utilise régulièrement :
 
 ## 🌱 Ce que j'apprends actuellement  
 - 🔍 Perfectionner mes compétences en **TypeScript** et **React**.  
-- 🔧 Améliorer la gestion des états avec **Redux** et **React Query**.  
+- 🔧 Améliorer la gestion des états avec **Redux** et **React Query**.
+- 🖥️ Apprendre et maitreiser **PHP** pour le developpement backend
 ---
 
 ## 📫 Me Contacter  
