@@ -29,15 +29,17 @@ Voici les technologies que j'utilise régulièrement :
 - Intégration avec l'API **Spotify** pour récupérer des données sur les artistes, albums, et titres.  
 - Développement avec **Node** et gestion des états via **TypeScript**.
 
-### 🎨 Portfolio Personnel (A venir)
+### # 🎉 [Marvel Quiz](https://github.com/junior344/marvel_Quizz)
 **Un site pour exposer mes compétences et projets**  
 - 🖌️ Créé avec **React** et un design responsive mobile-first avec **Sass**.  
 - ⚡ Optimisé avec **Vite** pour un chargement rapide.
 
   ### 🌦️ [Projet Météo](https://github.com/junior344/beCode_meteo.git)
-**Une application de météo interactive**  
-- 📍 Utilisation de l'API météo pour afficher les prévisions locales et globales.  
-- Développement avec **JavaScript** et rendu responsive pour une expérience utilisateur fluide.  
+## un site pour tester son niveau de connaissance dans l'univers marvel
+- 🔐 Authentification des utilisateurs avec Firebase
+- 🧩 Quiz interactif avec plusieurs niveaux de difficulté
+- 📊 Suivi des scores et affichage des résultats
+- 💻 Interface utilisateur réactive et conviviale  
 
 ### 🎮 Jeu Devinez l’Artiste  (A venir)
 **Un jeu interactif basé sur JavaScript**  
