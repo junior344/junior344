@@ -46,9 +46,11 @@ Voici les technologies que j'utilise régulièrement :
 - 🛠️ Utilisation de TypeScript pour une gestion stricte des types. 
 
 ### 🎮 [pokedex](https://github.com/junior344/pokedex)
-**Un jeu interactif basé sur JavaScript**  
-- 🎵 Testez vos connaissances musicales en devinant l'artiste en collaboration.  
-
+**lister et recherche tout vos pokemon favoris**  
+- 🔍 Recherche de Pokémon par nom.
+-  📊 Affichage des statistiques détaillées de chaque Pokémon.
+-  🌐 Intégration avec l'API PokéAPI pour obtenir des données en temps réel.
+-  🖌️ Design attrayant et animations interactives pour une meilleure expérience utilisateur.
 ---
 
 ## 🌱 Ce que j'apprends actuellement  
