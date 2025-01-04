@@ -45,7 +45,7 @@ Voici les technologies que j'utilise régulièrement :
 - 📊 Affichage des prévisions sur plusieurs jours avec des graphiques interactifs.
 - 🛠️ Utilisation de TypeScript pour une gestion stricte des types. 
 
-### 🎮 Jeu Devinez l’Artiste  (A venir)
+### 🎮 [pokedex](https://github.com/junior344/pokedex)
 **Un jeu interactif basé sur JavaScript**  
 - 🎵 Testez vos connaissances musicales en devinant l'artiste en collaboration.  
 
