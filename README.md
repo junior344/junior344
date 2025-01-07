@@ -56,7 +56,7 @@ Voici les technologies que j'utilise régulièrement :
 ## 🌱 Ce que j'apprends actuellement  
 - 🔍 Perfectionner mes compétences en **TypeScript** et **React**.  
 - 🔧 Améliorer la gestion des états avec **Redux** et **React Query**.
-- 🖥️ Apprendre et maitreiser **PHP** pour le developpement backend
+- 🖥️ Apprendre et maitriser **PHP** pour le developpement backend
 ---
 
 ## 📫 Me Contacter  
