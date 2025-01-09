@@ -24,10 +24,10 @@ Voici les technologies que j'utilise régulièrement :
 
 ## 🚀 Projets Notables
 
-### 🎵 [Projet Spotify](https://github.com/junior344/spotify.git)
-**Exploration de l'API Spotify pour créer des playlists personnalisées**  
-- Intégration avec l'API **Spotify** pour récupérer des données sur les artistes, albums, et titres.  
-- Développement avec **Node** et gestion des états via **TypeScript**.
+### 🎵 [Projet IDE Perso](https://github.com/junior344/IDE-perso)
+**Exploration et l'utilisation de redux**  
+- Intégration Redux et apprendre a l'utiliser.  
+- Développement avec **React** et gestion des états via **TypeScript**.
 
 ### 🎉 [Marvel Quiz](https://github.com/junior344/marvel_Quizz)
 **Un site pour tester son niveau de connaissance dans l'univers Marvel**  
